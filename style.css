@@ -2,3 +2,6 @@ body {
   background-color: aliceblue;
   display: flex;
 }
+h1 {
+  font-size: 20rem;
+}
